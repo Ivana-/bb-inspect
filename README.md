@@ -20,17 +20,17 @@ There are some settings you can alter directly in the code (font size, colors, l
 
 ### HTTP request result (regular map)
 
-![alt text](https://user-images.githubusercontent.com/10473034/55596814-41d6a980-5753-11e9-86cd-a07e659b8757.png "HTTP request result (regular map)")
+![alt text](https://user-images.githubusercontent.com/10473034/166127221-4f088bc9-7324-4436-8779-a95f16e58ea0.png "HTTP request result (regular map)")
 
 ### Datomic entity (even with cycle links)
 
-![alt text](https://user-images.githubusercontent.com/10473034/55596818-47cc8a80-5753-11e9-93fe-64a458c90767.png "Datomic entity (even with cycle links)")
+![alt text](https://user-images.githubusercontent.com/10473034/166127228-6fe0ad5a-e1e6-4e92-8f2e-8aafa4af419b.png "Datomic entity (even with cycle links)")
 
 ### Datomic db itself :)
 
 btw, please do not expand millions of datoms into GUI view, they'l strictly fit the tree and freeze the view - maybe I'l fix it in later release if this tool would be commonly used
 
-![alt text](https://user-images.githubusercontent.com/10473034/55596818-47cc8a80-5753-11e9-93fe-64a458c90767.png "Datomic db itself :)")
+![alt text](https://user-images.githubusercontent.com/10473034/166127230-5a108554-3000-493c-9fbc-9cee26741b1e.png "Datomic db itself :)")
 
 
 ## License
